@@ -95,6 +95,6 @@ python pneumonia_detection.py
 
 ## 👩‍💻 Author
 
-**Architha Ojha**
+**Adina Isran**
 
 B.Tech in Computer Science (AI & ML)
